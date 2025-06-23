@@ -1,0 +1,234 @@
+{
+    "mvor-day1-cam3": {
+        "0": {
+            "query": "Segment the step stool when it sits by the patient's bed, providing a stable platform for staff during patient preparation.",
+            "gt": "./mask/mvor-day1-cam3_0"
+        },
+        "1": {
+            "query": "Segment the step stool when it remains stationary behind all other objects as the MRI gantry is positioned for machine setup.",
+            "gt": "./mask/mvor-day1-cam3_1"
+        },
+        "2": {
+            "query": "Segment the patient when staff adjusts their position, lying supine on the table with arms extended above the head, during the preparation.",
+            "gt": "./mask/mvor-day1-cam3_2"
+        },
+        "3": {
+            "query": "Segment the patient when the MRI gantry closes around them as they remain motionless on the table for alignment checks.",
+            "gt": "./mask/mvor-day1-cam3_3"
+        },
+        "4": {
+            "query": "Segment the medical instrument cart when it is positioned near the bed with trays of instruments and supplies during patient preparation.",
+            "gt": "./mask/mvor-day1-cam3_4"
+        },
+        "5": {
+            "query": "Segment the medical instrument cart when it is rolled closer to the scanner for convenient access to adjustment tools during the MRI machine setup.",
+            "gt": "./mask/mvor-day1-cam3_5"
+        },
+        "6": {
+            "query": "Segment the sterile surgical drape pack when it remains unopened on the cart behind the CT technologists, MRI machine, patient, and instrument cart, but in front of the step stool, during patient preparation.",
+            "gt": "./mask/mvor-day1-cam3_6"
+        },
+        "7": {
+            "query": "Segment the sterile surgical drape pack when it is nudged nearer the scanner table behind the CT technologists, MRI machine, patient, and instrument cart, but in front of the step stool, during the MRI machine setup.",
+            "gt": "./mask/mvor-day1-cam3_7"
+        },
+        "8": {
+            "query": "Segment the CT technologist when they adjust the bed controls and secure the patient\u2019s straps.",
+            "gt": "./mask/mvor-day1-cam3_8"
+        },
+        "9": {
+            "query": "Segment the CT technologist when they operate the scanner\u2019s control panel to set parameters and align the gantry.",
+            "gt": "./mask/mvor-day1-cam3_9"
+        },
+        "10": {
+            "query": "Segment the CT technologist wearing a blue gown, green cap, and mask who assists with securing the patient's restraints and confirming comfort during patient preparation.",
+            "gt": "./mask/mvor-day1-cam3_10"
+        },
+        "11": {
+            "query": "Segment the CT technologist wearing a blue gown, green cap, and mask who stands by the control console checking safety interlocks and scan parameters during the MRI machine setup.",
+            "gt": "./mask/mvor-day1-cam3_11"
+        },
+        "12": {
+            "query": "Segment the CT technologist who assists in fine-tuning the patient's posture and checking straps during the patient preparation.",
+            "gt": "./mask/mvor-day1-cam3_12"
+        },
+        "13": {
+            "query": "Segment the CT technologist who handles additional machine checks and communicates positioning cues during the MRI machine setup.",
+            "gt": "./mask/mvor-day1-cam3_13"
+        }
+    },
+    "mvor-day2-cam3": {
+        "0": {
+            "query": "Segment the patient when staff adjust the sheet and straps on the imaging table during patient preparation.",
+            "gt": "./mask/mvor-day2-cam3_0"
+        },
+        "1": {
+            "query": "Segment the patient when they remain still under a blue sterile drape while staff arrange instruments during the surgical procedure.",
+            "gt": "./mask/mvor-day2-cam3_1"
+        },
+        "2": {
+            "query": "Segment the Mri machine during its positioning around the supine patient to align for imaging.",
+            "gt": "./mask/mvor-day2-cam3_2"
+        },
+        "3": {
+            "query": "Segment the Mri machine when its bed moves into the bore for scanning under staff supervision.",
+            "gt": "./mask/mvor-day2-cam3_3"
+        },
+        "4": {
+            "query": "Segment the monitor when it displays initial vital signs and positioning images during patient preparation.",
+            "gt": "./mask/mvor-day2-cam3_4"
+        },
+        "5": {
+            "query": "Segment the monitor when it updates with live scan slices or vitals during the surgical procedure.",
+            "gt": "./mask/mvor-day2-cam3_5"
+        },
+        "6": {
+            "query": "Segment the radiation shield when it is positioned to block non-target areas from radiation.",
+            "gt": "./mask/mvor-day2-cam3_6"
+        },
+        "7": {
+            "query": "Segment the radiation shield when it is fine-adjusted as imaging continues to protect staff and patient.",
+            "gt": "./mask/mvor-day2-cam3_7"
+        },
+        "8": {
+            "query": "Segment the foam positioning pad when staff place and shape it under the patient for support and comfort.",
+            "gt": "./mask/mvor-day2-cam3_8"
+        },
+        "9": {
+            "query": "Segment the foam positioning pad during the time staff fine-tune it to maintain proper patient alignment for surgery.",
+            "gt": "./mask/mvor-day2-cam3_9"
+        },
+        "10": {
+            "query": "Segment the person in blue scrubs securing straps and drapes around the patient during patient preparation.",
+            "gt": "./mask/mvor-day2-cam3_10"
+        },
+        "11": {
+            "query": "Segment the person in blue scrubs handling tools or interfaces for imaging guidance during the surgical procedure.",
+            "gt": "./mask/mvor-day2-cam3_11"
+        },
+        "12": {
+            "query": "Segment the person in gown and cap holding tools or paperwork and supervising the setup during patient preparation.",
+            "gt": "./mask/mvor-day2-cam3_12"
+        },
+        "13": {
+            "query": "Segment the person in gown and cap who operates instruments or interacts with the MRI interface during the surgical procedure.",
+            "gt": "./mask/mvor-day2-cam3_13"
+        },
+        "14": {
+            "query": "Segment the person when they secure the patient\u2019s gown and mask before imaging.",
+            "gt": "./mask/mvor-day2-cam3_14"
+        },
+        "15": {
+            "query": "Segment the person when they assist with instrumentation or monitor the patient\u2019s status during the surgical procedure.",
+            "gt": "./mask/mvor-day2-cam3_15"
+        }
+    },
+    "mvor-day3-cam1": {
+        "0": {
+            "query": "Segment the patient when they remain still as staff align drapes and straps for safety and imaging accuracy during patient preparation.",
+            "gt": "./mask/mvor-day3-cam1_0"
+        },
+        "1": {
+            "query": "Segment the patient when they remain motionless while the scanner gantry slides into place during scanner setup.",
+            "gt": "./mask/mvor-day3-cam1_1"
+        },
+        "2": {
+            "query": "Segment the patient when they lie still as the gantry rotates around to capture images during the surgical procedure and scanning process.",
+            "gt": "./mask/mvor-day3-cam1_2"
+        },
+        "3": {
+            "query": "Segment the monitor when it displays patient alignment images and vital signs behind and to the left of the patient during the patient preparation.",
+            "gt": "./mask/mvor-day3-cam1_3"
+        },
+        "4": {
+            "query": "Segment the monitor when it shows live positioning feedback behind the patient to their left during the scanner setup.",
+            "gt": "./mask/mvor-day3-cam1_4"
+        },
+        "5": {
+            "query": "Segment the monitor when it displays scan images and status behind the patient to the left of the rotating gantry during the scanning process.",
+            "gt": "./mask/mvor-day3-cam1_5"
+        },
+        "6": {
+            "query": "Segment the Mri machine when it is in standby in the right background behind the patient and staff as they prepare the patient on the table.",
+            "gt": "./mask/mvor-day3-cam1_6"
+        },
+        "7": {
+            "query": "Segment the Mri machine when staff move its gantry into position around the patient from the right side.",
+            "gt": "./mask/mvor-day3-cam1_7"
+        },
+        "8": {
+            "query": "Segment the Mri machine during its gantry rotation around the patient to capture cross-sectional images in operation.",
+            "gt": "./mask/mvor-day3-cam1_8"
+        },
+        "9": {
+            "query": "Segment the person at the patient's right side who secures drapes and sets up equipment around the patient during the patient preparation on the scanner table.",
+            "gt": "./mask/mvor-day3-cam1_9"
+        },
+        "10": {
+            "query": "Segment the person who helps guide the patient into the scanner bore from the right side when the staff move the gantry into position.",
+            "gt": "./mask/mvor-day3-cam1_10"
+        },
+        "11": {
+            "query": "Segment the person at the control panel on the right who observes the scan progress and checks machine readings during the scanning process.",
+            "gt": "./mask/mvor-day3-cam1_11"
+        },
+        "12": {
+            "query": "Segment the patient's lower body when it remains covered under a sterile sheet at the foot end of the table during patient preparation.",
+            "gt": "./mask/mvor-day3-cam1_12"
+        },
+        "13": {
+            "query": "Segment the patient's lower body when the legs are positioned under the gantry opening as the table slides during the scanner setup.",
+            "gt": "./mask/mvor-day3-cam1_13"
+        },
+        "14": {
+            "query": "Segment the patient's lower body when it stays within the rotating gantry for cross-sectional imaging during the surgical procedure and scanning process.",
+            "gt": "./mask/mvor-day3-cam1_14"
+        },
+        "15": {
+            "query": "Segment the medical professional dressed in scrubs and surgical cap who adjusts the patient's head position and straps for imaging during the patient preparation.",
+            "gt": "./mask/mvor-day3-cam1_15"
+        },
+        "16": {
+            "query": "Segment the technologist at the head end who assists in guiding the patient as the gantry slides into place when the scanner setup is underway.",
+            "gt": "./mask/mvor-day3-cam1_16"
+        },
+        "17": {
+            "query": "Segment the staff member near the control area who monitors patient comfort and communicates instructions during the surgical procedure and scanning process.",
+            "gt": "./mask/mvor-day3-cam1_17"
+        }
+    },
+    "mvor-day4-cam3":     {
+        "0": {
+            "query": "Segment the MRI machine when the medical staff prepares the patient on the scanner bed for the imaging scan.",
+            "gt": "./mask/mvor-day4-cam3_0"
+        },
+        "1": {
+            "query": "Segment the MRI machine when the staff adjusts the drapes around the patient for proper imaging conditions.",
+            "gt": "./mask/mvor-day4-cam3_1"
+        },
+        "2": {
+            "query": "Segment the electrosurgical unit when it is stationary on its cart in front of the MRI machine and patient positioning wedge during the preparation for the MRI scan.",
+            "gt": "./mask/mvor-day4-cam3_2"
+        },
+        "3": {
+            "query": "Segment the medical staff in light-blue scrubs with a bouffant cap and surgical mask when they carefully lift the patient onto the MRI table to prepare for the procedure.",
+            "gt": "./mask/mvor-day4-cam3_3"
+        },
+        "4": {
+            "query": "Segment the medical staff in light-blue scrubs with a bouffant cap and surgical mask when they ensure the patient is correctly aligned for optimal MRI imaging.",
+            "gt": "./mask/mvor-day4-cam3_4"
+        },
+        "5": {
+            "query": "Segment the medical staff in light-blue scrubs with a bouffant cap and surgical mask preparing the MRI machine, during the final equipment checks for the scan and surgical procedures.",
+            "gt": "./mask/mvor-day4-cam3_5"
+        },
+        "6": {
+            "query": "Segment the patient covered with a white sheet when the medical staff is preparing them for the MRI scan.",
+            "gt": "./mask/mvor-day4-cam3_6"
+        },
+        "7": {
+            "query": "Segment the patient who is lying still inside the MRI machine during the imaging procedure with the medical staff monitoring.",
+            "gt": "./mask/mvor-day4-cam3_7"
+        }
+    }
+}
