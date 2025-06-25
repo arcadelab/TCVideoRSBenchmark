@@ -16,6 +16,8 @@ The data file ``data.json`` contains 52 data, each containing a query and a path
 
  <p align="center"><img src="asset/data_example1.png" height="200"> <img src="asset/data_example2.png" height="200"> <img src="asset/data_example3.png" height="200"></p>
 
+The ground truth file ``mask.zip`` includes the ground truth masks for the data queries. The masks that are not in the time slots constrained by the query will be empty (all pixels are black) for every data.
+
 ### Statistics
  <p align="center"><img src="asset/stat.png" width="500"></p>
 
